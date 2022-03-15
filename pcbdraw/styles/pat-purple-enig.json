@@ -1,9 +1,9 @@
 {
-    "copper": "#417e5a",
-    "board": "#4ca06c",
+    "copper": "#4B345A",
+    "board": "#200235",
     "silk": "#f0f0f0",
-    "pads": "#b5ae30",
-    "clad": "#876F38",
+    "pads": "#cc9933",
+    "clad": "#9c6b28",
     "outline": "#000000",
     "vcut": "#bf2600",
     "highlight-on-top": false,
